@@ -1,2 +1,5 @@
 __pycache__/
 chroma_db/
+documents/*
+!documents/.gitkeep
+document_state.json
