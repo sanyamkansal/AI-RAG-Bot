@@ -1,0 +1,7 @@
+chromadb
+sentence-transformers
+ollama
+pymupdf
+pytesseract
+opencv-python
+numpy
